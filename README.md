@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML and DL**
 
-- 📫 How to reach me **praveenathopuri1998@gmail.com**
+- 📫 How to reach me **praveenathopuri2098@gmail.com**
 
 - 📄 Resume [https://github.com/thopurupraveena/thopurupraveena/blob/main/Praveena%20resume.pdf](https://github.com/thopurupraveena/thopurupraveena/blob/main/Praveena%20resume.pdf)
 
